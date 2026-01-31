@@ -1,0 +1,60 @@
+th{
+    background: #e470ff;
+    color: #2842c8;
+    height: 80px;
+    text-align: center;
+    font-size: 22px;
+}
+td{
+    font-size: 18px;
+    text-align: center;
+}
+tr:hover{
+    background: #5e788b;
+}
+.buttons, .logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading{
+    background: #5f8b6f;
+    color: #cc2e5d;
+    width: 100%;
+    height: 80px;
+    padding: 20px;
+}
+.dropdown-menu{
+    background: #e167ff;
+    color: #1e4eff;
+    font-family: Gubbi;
+}
+.footer{
+    color: #e832ff;
+    font-family: TlwgTypewriter;
+}
+.carousel-indicators{
+    float-displace: auto;
+}
+.me1{
+    font-size: 25px;
+    color: #cc0e3c;
+    font-family: Gubbi;
+    font-weight: bolder;
+}
+.me2{
+    font-size: 20px;
+    color: #2110e2;
+    font-family: Consolas;
+font-weight: bold;
+}
+.headingOne{
+    background-color: #71788b;
+    color: #0a0bcc;
+    font-family: Dyuthi;
+}
+.topPic{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
